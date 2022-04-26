@@ -30,7 +30,12 @@ src="https://img.shields.io/github/followers/weslleyrods?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+<b>My Daily Dev card<b><br/><br/>
+<a href="https://app.daily.dev/weslleyrods"><img src="https://api.daily.dev/devcards/b530639c2f2b457b9f90831ccbc8d47e.png?r=ec7" width="340" alt="Weslley Rodrigues's Dev Card"/></a>
+
+</p>
 
 ### Badges
 
