@@ -1,4 +1,4 @@
-Hi everyone👋🏻 My name is Weslley Rodrigues
+Hi, everyone!👋🏻 My name is Weslley Rodrigues
 ==================================
 
 Web Developer beginner
@@ -10,7 +10,7 @@ I'm studying for an associate degree in Systems Analysis and Development at FATE
 *   😄  Pronouns: he/him
 *   📧  You can contact me at [weslley.rdgs@gmail.com](mailto:weslley.rdgs@gmail.com)
 *   🔭  Looking for my 1st internship
-*   🌱  I'm currently learning Java, JavaScript, Angular, Node.JS with future interest on to learn Spring
+*   🌱  I'm currently learning Java, JavaScript, Angular, Node.JS with future interest in learning Spring
 
 <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/weslleyrods?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
