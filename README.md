@@ -1,36 +1,44 @@
-Hi, everyone!👋🏻 My name is Weslley Rodrigues
-==================================
+Hi, everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Weslley Rodrigues
+=========================================================================================================================================
 
 Web Developer beginner
 ----------------------
 
-I'm studying for an associate degree in Systems Analysis and Development at FATEC Ipiranga Centro Paula Souza, one of the most renowned public colleges in Brazil. I've been learning to code for 2 years, since my college admission and after switching careers. I started with C language to learn programming logic, Data Structures and Java for concepts of Orientation Object Programming, making a few front-end projects between them, using HTML5, CSS3, Bootstrap 5, JavaScript and some others back-end projects with Java, mySQL, JBDC, and Spring MVC. However, I have found a passion for back-end development while studying Java and I'm looking forward to starting my studies with Spring Framework.
+  I'm studying for an associate degree in Systems Analysis and Development at FATEC Ipiranga Centro Paula Souza, one of the most renowned public colleges in Brazil. I've been learning to code for 2 years, since my college admission and after switching careers. I started using C language to learn programming logic, Data Structures and Java for concepts of Orientation Object Programming, making a few front-end projects between them, using HTML5, CSS3, JavaScript, Bootstrap 5, Angular, Mustache and some other back-end projects using Java, mySQL, JBDC, Spring MVC, NodeJS, ExpressJS and MongoDB. I have found a passion for back-end development as much as front-end while studying those projects, especially using M.E.A.N. stack.
+  I'm currently focusing on my NodeJS studies and I'm looking forward to getting my first job opportunity.
 
 *   🌍  I'm based in Sao Paulo, SP - Brazil
 *   😄  Pronouns: he/him
-*   📧  You can contact me at [weslley.rdgs@gmail.com](mailto:weslley.rdgs@gmail.com)
+* ✉️  You can contact me at [weslley.rdgs@gmail.com](mailto:weslley.rdgs@gmail.com)
 *   🔭  Looking for my 1st internship
-*   🌱  I'm currently learning Java, JavaScript, Angular, Node.JS with future interest in learning Spring
+*   🌱  I'm currently learning JavaScript and NodeJS
 
 <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/weslleyrods?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
+
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> 
+<a href="https://dev.to/weslleyrods" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="weslleyrods" height="32" width="32" /></a> <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/weslleyrods" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 <b>My Daily Dev card<b><br/><br/>
 <a href="https://app.daily.dev/weslleyrods"><img src="https://api.daily.dev/devcards/b530639c2f2b457b9f90831ccbc8d47e.png?r=ec7" width="340" alt="Weslley Rodrigues's Dev Card"/></a>
@@ -48,11 +56,3 @@ src="https://img.shields.io/github/followers/weslleyrods?logo=github&style=for-t
 <a href="http://www.github.com/weslleyrods"><img src="https://activity-graph.herokuapp.com/graph?username=weslleyrods&bg_color=0f172a&color=ffffff&line=14b8a6&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/weslleyrods" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrods&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/weslleyrods/20221_dart_coffee_store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyrods&repo=20221_dart_coffee_store&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/weslleyrods/20221_api_open_weather_map" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyrods&repo=20221_api_open_weather_map&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/weslleyrods/20221_dio_backend_devweek_bd_sus_cancer_de_mama" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyrods&repo=20221_dio_backend_devweek_bd_sus_cancer_de_mama&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/weslleyrods/20212_jbdc_bd_pessoas" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyrods&repo=20212_jbdc_bd_pessoas&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
