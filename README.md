@@ -4,14 +4,15 @@ Hi, everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Web Developer beginner
 ----------------------
 
-  I'm studying for an associate degree in Systems Analysis and Development at FATEC Ipiranga Centro Paula Souza, one of the most renowned public colleges in Brazil. I've been learning to code for 2 years, since my college admission and after switching careers. I started using C language to learn programming logic, Data Structures and Java for concepts of Orientation Object Programming, making a few front-end projects between them, using HTML5, CSS3, JavaScript, Bootstrap 5, Angular, Mustache and some other back-end projects using Java, mySQL, JBDC, Spring MVC, NodeJS, ExpressJS and MongoDB. I have found a passion for back-end development as much as front-end while studying those projects, especially using M.E.A.N. stack.
-  I'm currently focusing on my NodeJS studies and I'm looking forward to getting my first job opportunity.
+I'm studying for an associate degree in Systems Analysis and Development at FATEC Ipiranga Centro Paula Souza, one of the most renowned public colleges in Brazil. I've been programming since, after my college admission and switching career. I started using C language to learn programming logic, Data Structures and Java for concepts of Orientation Object Programming, making a few front-end projects between them, using HTML5, CSS3, JavaScript, Bootstrap 5, Angular, React.js Mustache and some other back-end projects using Java, MySQL, JBDC, Node.js, Express.js and MongoDB. 
+
+I have found a passion for back-end development as much as front-end while programming those projects. I'm currently studying React.js and Node.js, focusing on a well-defined learning path to build a solid base of knowledge. I'm looking forward to getting my first internship/job opportunity.
 
 *   🌍  I'm based in Sao Paulo, SP - Brazil
 *   😄  Pronouns: he/him
 * ✉️  You can contact me at [weslley.rdgs@gmail.com](mailto:weslley.rdgs@gmail.com)
-*   🔭  Looking for my 1st internship
-*   🌱  I'm currently learning JavaScript and NodeJS
+*   🔭  Looking for my 1st internship/job opportunity
+*   🌱  I'm currently learning React.js, JavaScript, Node.js, MySQL and MongoDB
 
 <a href="https://www.github.com/weslleyrods" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/weslleyrods?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
