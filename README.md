@@ -1,7 +1,7 @@
 Hi, everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Weslley Rodrigues
 =========================================================================================================================================
 
-Web Developer beginner
+Web Developer
 ----------------------
 
 I'm studying for an associate degree in Systems Analysis and Development at FATEC Ipiranga Centro Paula Souza, one of the most renowned public colleges in Brazil. I've been programming since, after my college admission and switching career. I started using C language to learn programming logic, Data Structures and Java for concepts of Orientation Object Programming, making a few front-end projects between them, using HTML5, CSS3, JavaScript, Bootstrap 5, Angular, React.js Mustache and some other back-end projects using Java, MySQL, JBDC, Node.js, Express.js and MongoDB. 
